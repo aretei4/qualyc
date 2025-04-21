@@ -10,6 +10,12 @@
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 </head>
 <body>
+	<script>
+  window.userData = {
+    username: "subash",
+    role: "rolee1"
+  };
+</script>
   <div id="root"></div>
 
   <!-- Load the external JSX file -->
